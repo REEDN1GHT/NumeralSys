@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="F:\Zazarus\fpc\3.0.2\bin\i386-win32\fpc.exe" Date="1247517510"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\macs0\Desktop\МАКСимальное проектирование 2.0\Перевод 2_8_10_16\lib\i386-win32&quot; -FuF:\Zazarus\lcl\units\i386-win32\win32 -FuF:\Zazarus\lcl\units\i386-win32 -FuF:\Zazarus\components\lazutils\lib\i386-win32 -FuF:\Zazarus\packager\units\i386-win32 &quot;-FuC:\Users\macs0\Desktop\МАКСимальное проектирование 2.0\Перевод 2_8_10_16\&quot; &quot;-FUC:\Users\macs0\Desktop\МАКСимальное проектирование 2.0\Перевод 2_8_10_16\lib\i386-win32\&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
